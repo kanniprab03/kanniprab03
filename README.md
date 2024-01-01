@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanniprab03
-- 👀 I’m interested in Fullstack Development, FrontEnd development, Java , Python
-- 🌱 I’m currently learning Fullstack 
+- 👀 I’m interested in Fullstack Web Development, Java, Python, NodeJs, MongoDB, MySql
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me ... 🔍
 
